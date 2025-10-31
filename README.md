@@ -1,5 +1,3 @@
-# Untitled UI Scroll Effect `clone`
+# 💫 Untitled UI Scroll Effect `clone`
 
-Heavily `inspired` by the Untitled UI landing page hover effect
-
-> https://www.untitledui.com/
+Scroll and hover effect clone inspired by [Untitled UI](https://www.untitledui.com/)
